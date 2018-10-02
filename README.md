@@ -22,4 +22,4 @@
 
 #### Screenshot
 
-![Screenshot Post Page](https://raw.githubusercontent.com/https:/master/static/img/screenshot-post-page.png  "Screenshot Post Page")
+![Screenshot Post Page](https://snag.gy/fHryQk.jpg "Screenshot Post Page")
